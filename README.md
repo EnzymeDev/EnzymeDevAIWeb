@@ -1,2 +1,2 @@
-# EnzymeDevAI.net
+# enzymeai.net
 EnzymeAI Website/Landing Page!!
