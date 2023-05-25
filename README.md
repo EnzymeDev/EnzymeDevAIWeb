@@ -1,2 +1,2 @@
-# EnzymeDevAI.github.io
+# EnzymeDevAI.net
 EnzymeAI Website/Landing Page!!
